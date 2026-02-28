@@ -1,0 +1,170 @@
+🎯 Google Ki Saari Apps
+📧 Core Services (Main Apps)
+    1. Gmail - Email service 
+    2. Google Drive - Cloud storage 
+    3. Google Calendar - Time management 
+    4. Google Contacts - Address book 
+    5. Google Keep - Notes & lists 
+    6. Google Tasks - To-do lists 
+    7. Google Chat - Messaging 
+    8. Google Meet - Video conferencing 
+    9. Google Voice - Calling service 
+    10. Google Groups - Forums & groups 
+📝 Document Apps
+    11. Google Docs - Word processing 
+    12. Google Sheets - Spreadsheets 
+    13. Google Slides - Presentations 
+    14. Google Forms - Online forms 
+    15. Google Sites - Website builder 
+    16. Google Jamboard - Digital whiteboard 
+    17. Google AppSheet - No-code app builder 
+🎨 Media & Photos
+    18. Google Photos - Photo storage 
+    19. YouTube - Video platform 
+    20. Google Arts & Culture - Art exploration 
+🌍 Maps & Travel
+    21. Google Maps - Navigation 
+    22. Google Earth - 3D globe 
+    23. Google My Maps - Custom maps 
+    24. Google Trips - Travel planner 
+🤖 AI & Search
+    25. Gemini (formerly Bard) - AI assistant 
+    26. Google Search - Web search
+    27. Google Discover - Content feed
+    28. NotebookLM - AI note-taking 
+    29. Google Lens - Visual search
+    30. Google Assistant - Voice assistant
+    31. Google Translate - Language translation 
+    32. Google Scholar - Academic search 
+    33. Google Books - Book search 
+    34. Google News - News aggregator 
+🛍️ Shopping & Business
+    35. Google Shopping - Product search
+    36. Google Merchant Center - Business listings 
+    37. Google My Business - Business profile 
+    38. Google Pay - Payment service 
+    39. Google Ads - Advertising 
+    40. Google AdSense - Monetization 
+    41. Google Analytics - Website stats 
+    42. Google Search Console - SEO tool 
+🎓 Education & Development
+    43. Google Classroom - Education platform 
+    44. Google Cloud Platform - Cloud computing 
+    45. Colab - Coding in browser 
+    46. Google Developers - Dev resources 
+    47. Firebase - App development
+🧩 Other Google Apps
+    48. Blogger - Blogging 
+    49. Chrome - Web browser
+    50. Chrome Web Store - Extensions 
+    51. Google Chrome Sync - Sync browser 
+    52. Google Fi - Mobile service 
+    53. Google Alerts - Web monitoring 
+    54. Google Bookmarks - Save links 
+    55. Google Takeout - Data export 
+    56. Google Domains - Domain registration 
+    57. Google Play Store - App store 
+    58. Google Play Console - App publishing 
+    59. Google Podcasts - Podcast app
+    60. Socratic - Learning app 
+    61. Google Opinion Rewards - Surveys
+    62. Google Fit - Health tracking
+    63. Google One - Storage subscription
+    64. Google Authenticator - 2FA app
+    65. Google Family Link - Parental control
+    66. Google Classroom - Teaching tool 
+    67. Google TV - Streaming platform
+    68. Google Fonts - Typography
+    69. Google Data Studio - Visualization 
+    70. Google Web & App Activity - Activity tracking 
+
+💻 Microsoft Ki Saari Apps
+📁 Microsoft 365 Productivity Suite
+    71. Microsoft Word - Document creation 
+    72. Microsoft Excel - Spreadsheets 
+    73. Microsoft PowerPoint - Presentations 
+    74. Microsoft Outlook - Email & calendar 
+    75. Microsoft OneNote - Digital notes 
+    76. Microsoft OneDrive - Cloud storage 
+    77. Microsoft Teams - Collaboration 
+    78. Microsoft Access - Database (desktop)
+    79. Microsoft Publisher - Desktop publishing
+    80. Microsoft To Do - Task management 
+    81. Microsoft Planner - Project planning
+    82. Microsoft Lists - Data tracking
+    83. Microsoft Bookings - Appointment scheduling
+    84. Microsoft Forms - Surveys & quizzes
+🖥️ Windows System Apps
+    85. Microsoft Edge - Web browser 
+    86. Microsoft Store - App marketplace 
+    87. Notepad - Text editor 
+    88. Paint - Image editor 
+    89. Calculator - Math tool 
+    90. Snipping Tool - Screenshot capture 
+    91. Sticky Notes - Digital notes 
+    92. Windows Clock - Time & alarms 
+    93. Terminal - Command line 
+    94. Quick Assist - Remote support 
+    95. Media Player - Audio/video playback 
+    96. Microsoft Photos - Photo viewer 
+    97. Clipchamp - Video editor 
+    98. Solitaire & Casual Games - Games 
+    99. Windows Security - Antivirus
+    100. File Explorer - File management
+    101. Task Manager - System monitoring
+    102. Control Panel - Settings
+    103. Settings - System config
+    104. WordPad - Rich text editor
+    105. Paint 3D - 3D creation
+🧠 AI & Developer Tools
+    106. Microsoft Copilot - AI assistant 
+    107. PowerShell - Scripting 
+    108. Visual Studio - IDE
+    109. Visual Studio Code - Code editor
+    110. Power BI - Business analytics
+    111. Power Apps - Low-code apps 
+    112. Power Automate - Workflow automation
+    113. Power Virtual Agents - Chatbots
+    114. GitHub - Code hosting
+    115. GitHub Copilot - AI pair programmer
+📞 Communication Apps
+    116. Skype - Video calling
+    117. Microsoft Teams (personal) - Chat
+    118. LinkedIn - Professional network
+    119. Yammer - Enterprise social
+🎮 Entertainment & Xbox
+    120. Xbox - Gaming platform
+    121. Xbox Game Pass - Game subscription
+    122. Xbox Cloud Gaming - Game streaming
+    123. Microsoft Movies & TV - Video content
+    124. Microsoft Solitaire Collection - Card games
+    125. Microsoft Minesweeper - Puzzle game
+🔍 Search & News
+    126. Bing - Search engine
+    127. Microsoft Start - News feed
+    128. MSN - Portal
+    129. Microsoft News - News app
+    130. Weather - Weather app
+📱 Mobile Apps
+    131. Microsoft Launcher - Android launcher
+    132. SwiftKey - Keyboard app
+    133. Microsoft Authenticator - 2FA app
+    134. Microsoft Defender - Security app 
+    135. Microsoft Family Safety - Parental control
+    136. Microsoft Math Solver - Math help
+    137. Microsoft News - News reading
+🧰 Business & Enterprise
+    138. Dynamics 365 - CRM/ERP
+    139. SharePoint - Document management
+    140. Exchange - Email server
+    141. SQL Server - Database
+    142. Azure - Cloud platform
+    143. Active Directory - Identity management
+    144. Intune - Device management
+    145. Configuration Manager - IT management
+🎨 Creative Tools
+    146. Microsoft Designer - Graphic design
+    147. Microsoft Whiteboard - Collaborative canvas
+    148. Snip & Sketch - Screenshot annotation
+    149. 3D Viewer - 3D model viewer
+    150. Mixed Reality Portal - VR/AR
