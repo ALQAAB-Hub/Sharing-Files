@@ -1,5 +1,12 @@
 Roadmap:
 https://mermaid.ai/view/387f96da-e963-4521-9be3-fa389bdeaa70
 
-Keyboard Keys:
+Keyboard Key Names:
 https://chatgpt.com/share/695bc2d6-c1c0-800e-a72e-04004134523c
+
+Shortcut Keys:
+https://chat.deepseek.com/share/uj2tri2zv6u1yru1xv
+
+Ai ans Roman Urdu:
+or write ans in roman Urdu (written using English alphabets)
+
