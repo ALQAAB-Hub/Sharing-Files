@@ -1,0 +1,109 @@
+1. 🤖 AI Assistants aur Chatbots (Left Hand Practice)
+    1. ChatGPT (OpenAI) 
+    2. Gemini (Google) 
+    3. Claude (Anthropic) 
+    4. Copilot (Microsoft) 
+    5. DeepSeek 
+    6. Kimi AI 
+    7. Perplexity AI 
+    8. Poe (Quora) 
+    9. Grok (xAI) 
+    10. Character.AI 
+    11. Pi AI (Inflection) 
+    12. HuggingChat 
+    13. Le Chat (Mistral) 
+    14. Jasper Chat 
+    15. ChatSonic (Writesonic) 
+🎨 AI Image Generation (Right Hand Practice)
+    16. Midjourney 
+    17. Leonardo.ai 
+    18. Playground AI
+    19. Ideogram AI
+    20. Stable Diffusion Online
+    21. ClipDrop (Stability AI) 
+    22. Krea AI 
+    23. Magnific AI
+    24. Adobe Firefly
+    25. Canva AI
+    26. Fotor Go AI
+    27. Picsart AI Tools
+    28. Zyro AI Image Generator
+    29. Hotpot.ai 
+    30. Remove.bg 
+💻 Developer Tools & Platforms (Left Hand Practice)
+    31. GitHub 
+    32. GitLab 
+    33. Stack Overflow 
+    34. CodePen 
+    35. Replit
+    36. Vercel
+    37. Netlify
+    38. Hugging Face 
+    39. SourceForge 
+    40. Bitbucket 
+🎓 Tech Learning Platforms (Right Hand Practice)
+    41. Coursera 
+    42. Udemy 
+    43. edX 
+    44. Pluralsight 
+    45. freeCodeCamp
+    46. Khan Academy
+    47. GeeksforGeeks 
+    48. W3Schools 
+    49. MIT OpenCourseWare 
+    50. Codecademy
+📰 Tech News & Blogs (Left Hand Practice)
+    51. TechCrunch 
+    52. The Verge 
+    53. Wired 
+    54. CNET 
+    55. Gizmodo 
+    56. Mashable 
+    57. TechRadar 
+    58. Ars Technica 
+    59. Digital Trends 
+    60. VentureBeat 
+    61. Engadget 
+    62. The Next Web (TNW) 
+    63. Hacker News 
+    64. The Information 
+    65. Fast Company
+🎵 AI Music & Audio (Right Hand Practice)
+    66. Soundraw 
+    67. Suno AI
+    68. Udio
+    69. AIVA
+    70. Boomy
+    71. Mubert
+    72. Beatoven.ai
+    73. Kits.ai
+    74. Voicemod
+    75. Lalal.ai
+🎥 AI Video Generation (Left Hand Practice)
+    76. Runway ML
+    77. Pika Labs
+    78. HeyGen
+    79. Synthesia
+    80. CapCut Online
+    81. InVideo
+    82. Fliki
+    83. Pictory
+    84. Visla
+    85. Colossyan
+🔎 AI Tool Discovery & Directories (Right Hand Practice)
+    86. Futurepedia 
+    87. There's An AI For That 
+    88. AI Tool Hunt 
+    89. SaaS AI Tools
+    90. Easy With AI
+    91. AI Scout
+    92. TopAI.tools
+    93. Insidr.ai
+    94. AI Parabellum
+    95. What The AI
+🧠 Research & Productivity (Left Hand Practice)
+    96. Elicit 
+    97. Consensus 
+    98. Notebook LM (Google) 
+    99. Research Rabbit 
+    100. Inciteful
