@@ -1,0 +1,198 @@
+1. Windows General Shortcuts (Jo har jagah kaam aati hain)
+Yeh basic keys hain jo Windows operating system mein aur almost har software mein common hoti hain.
+    • Ctrl + C : Kisi bhi selected text, file ya folder ko copy karna.
+    • Ctrl + X : Selected item ko cut (kaat kar) karna.
+    • Ctrl + V : Copy ya cut ki hui cheez ko paste (chipkana) karna.
+    • Ctrl + Z : Apna last action wapas lena (Undo).
+    • Ctrl + Y : Undo kiye gaye action ko dobara karna (Redo).
+    • Ctrl + A : Ek saath poori screen ya document mein sab kuch select karna.
+    • Ctrl + S : Current file ya document ko save karna. (Ctrl+S bar bar dabate rahna aadat bana lo)
+    • Ctrl + P : Print karne ka dialog box khulna.
+    • Ctrl + F : Current page ya document mein koi word ya text dhundhna (Find).
+    • Ctrl + N : Current program mein hi ek naya window ya document khulna (jaise naya Chrome tab nahi, naya Chrome window).
+    • Ctrl + O : Koi file open karne ka dialog box khulna.
+    • Ctrl + W : Current open tab ya window ko band karna.
+    • Alt + F4 : Current active program ko band karna. Agar koi program nahi khula to Windows shutdown ka option aayega.
+    • Alt + Tab : Open applications ke beech mein switch karne ke liye. (Alt dabakar Tab dabate jao)
+    • Alt + Esc : Jis order mein applications khule hain, usi order mein unke beech switch karna.
+    • F1 : Help menu open karna (current software ki).
+    • F2 : Kisi selected file ya folder ka naam badalna (Rename).
+    • F5 : Current page ya folder ko refresh karna.
+    • Delete : Selected item ko Recycle Bin mein bhejna.
+    • Shift + Delete : Kisi item ko Recycle Bin mein bheje bagair, permanently delete karna.
+    • PrtScn (Print Screen) : Poori screen ka screenshot lena (clipboard mein save hota hai, fir Ctrl+V se paste karo).
+    • Alt + PrtScn : Sirf current active window ka screenshot lena.
+2. Windows Key Shortcuts (Windows Logo Wali Key)
+Windows key (genrally space bar ke paas hoti hai) se related kuch useful shortcuts.
+    • Windows key : Start menu khulna ya band hona.
+    • Windows key + D : Desktop dikhana ya phir se open windows laana. (Jab kaam chupana ho)
+    • Windows key + E : File Explorer (This PC / My Computer) khulna.
+    • Windows key + L : Computer ko turant lock karna. (Jab aap apni seat se uthein)
+    • Windows key + R : Run dialog box khulna.
+    • Windows key + I : Windows Settings khulna.
+    • Windows key + S : Search bar khulna.
+    • Windows key + M : Saare open windows ko minimize karna.
+    • Windows key + Shift + M : Minimize kiye gaye windows ko restore karna.
+    • Windows key + Tab : Task View khulna (saare open windows aur timelines dikhte hain).
+    • Windows key + Left/Right Arrow : Current window ko screen ke aadhe hisse mein left ya right side par set karna.
+    • Windows key + Up/Down Arrow : Current window ko maximize ya minimize karna.
+    • Windows key + , (Comma) : Desktop ko jhankna (windows temporarily transparent ho jati hain).
+    • Windows key + Number (1,2,3...) : Taskbar par jo programs pin hain, unhe number ke hisaab se open karna ya unke beech switch karna.
+3. File Explorer Shortcuts (Files aur Folders manage karne ke liye)
+    • Ctrl + Shift + N : Naya folder (New Folder) banana.
+    • Alt + Left Arrow : Pichle folder par wapas jana (Back).
+    • Alt + Right Arrow : Agle folder par jana (Forward).
+    • Alt + Up Arrow : Current folder ke parent folder mein chale jana (Ek level up).
+    • Ctrl + Mouse Scroll (up/down) : File aur folder ke icons ka size badalna ya ghatana.
+    • F11 : File Explorer ko full-screen mode mein dekhna.
+4. MS Word Shortcuts (Microsoft Word ke liye)
+    • Ctrl + B : Selected text ko bold karna.
+    • Ctrl + I : Selected text ko italic karna.
+    • Ctrl + U : Selected text ko underline karna.
+    • Ctrl + L : Text ko left align karna.
+    • Ctrl + E : Text ko center align karna.
+    • Ctrl + R : Text ko right align karna.
+    • Ctrl + J : Text ko justify (donon taraf se barabar) karna.
+    • Ctrl + 1 : Line spacing single kar dena.
+    • Ctrl + 2 : Line spacing double kar dena.
+    • Ctrl + 5 : Line spacing 1.5 kar dena.
+    • Ctrl + D : Font change karne ka dialog box khulna.
+    • Ctrl + K : Hyperlink insert karna.
+    • F7 : Spell check aur grammar check shuru karna.
+    • Ctrl + Enter : Naya page insert karna (Page Break).
+    • Ctrl + Home : Document ke bilkul start mein chale jana.
+    • Ctrl + End : Document ke bilkul end mein chale jana.
+5. MS Excel Shortcuts (Microsoft Excel ke liye)
+    • Ctrl + T : Selected data ko Table mein convert karna.
+    • Ctrl + Shift + + (Plus) : Naye cell ya row insert karne ka option.
+    • Ctrl + - (Minus) : Selected cell ya row delete karne ka option.
+    • F2 : Selected cell mein editing ke liye jana.
+    • Ctrl + Spacebar : Poori column select karna.
+    • Shift + Spacebar : Poori row select karna.
+    • Ctrl + Shift + L : Filter on/off karna.
+    • Alt + = (Equals) : Sum karne ke liye AutoSum formula lagana.
+    • Ctrl + 1 : Cell formatting (Number, Alignment, Font etc.) ka dialog box khulna.
+    • Ctrl + ; (Semicolon) : Aaj ki date (current date) insert karna.
+    • Ctrl + Shift + ; (Semicolon) : Current time insert karna.
+    • F4 : Apna last action repeat karna. (Excel mein yeh bahut kaam aata hai, jaise cell color kiya to F4 se same color dusre cell par laga sakte ho)
+6. Google Chrome / Browser Shortcuts (Internet ke liye)
+    • Ctrl + T : Naya tab khulna.
+    • Ctrl + N : Naya browser window khulna.
+    • Ctrl + Shift + T : Aakhri band kiye gaye tab ko dobara kholna. (Agar galti se band kar diya to)
+    • Ctrl + W : Current tab ko band karna.
+    • Ctrl + Tab : Agle tab par jana (right side).
+    • Ctrl + Shift + Tab : Pichle tab par jana (left side).
+    • Ctrl + 1 se 8 : Tab number 1 se 8 par directly chale jana.
+    • Ctrl + 9 : Aakhri tab par chale jana (rightmost tab).
+    • Ctrl + D : Current webpage ko bookmark (favorite) mein add karna.
+    • Ctrl + Shift + B : Bookmark bar ko dikhana ya chhupana.
+    • Ctrl + H : History (tareekh) dikhana.
+    • Ctrl + J : Downloads dikhana.
+    • Ctrl + F : Current page par koi word dhundhna.
+    • Ctrl + R ya F5 : Page ko reload/refresh karna.
+    • Ctrl + Shift + R ya Ctrl + F5 : Hard reload (cache clear karke fresh page load karna).
+    • Ctrl + Plus (+) : Page zoom in (badhana) karna.
+    • Ctrl + Minus (-) : Page zoom out (ghatana) karna.
+    • Ctrl + 0 (Zero) : Zoom ko default (100%) par laana.
+    • Alt + Left Arrow : Pichle page par jana (Back).
+    • Alt + Right Arrow : Agle page par jana (Forward).
+    • Ctrl + L ya Alt + D : Address bar (URL bar) select karna.
+    • Spacebar : Page ko neeche scroll karna.
+    • Shift + Spacebar : Page ko upar scroll karna.
+    • F11 : Full-screen mode on/off karna.
+7. Extra Useful Shortcuts
+    • Alt + Enter : Kisi selected file ya folder ki properties dikhana.
+    • Shift + Right Click : Kisi file par shift + right click karne se "Copy as path" ka option aata hai (file ka pura address copy karne ke liye).
+    • Windows key + Shift + S : Snipping Tool se screenshot lena (specific area ka).
+    • Ctrl + Shift + Esc : Seedha Task Manager khulna.
+    • Windows key + X : Advanced user menu (quick access menu) khulna (ismein Device Manager, Disk Management, Command Prompt, Task Manager etc. ke quick options hote hain).
+8. Text Editing aur Navigation ke Advanced Shortcuts
+Yeh shortcuts kisi bi text editor (Word, Notepad, browser ki address bar, ya kisi bhi jagah likhte waqt) kaam aate hain.
+    • Ctrl + Left/Right Arrow : Cursor ko poora ek word peeche ya aage le jana. (Normal arrow sirf ek character move karta hai)
+    • Ctrl + Up/Down Arrow : Cursor ko poora ek paragraph upar ya neeche le jana.
+    • Shift + Left/Right/Up/Down Arrow : Arrow ki direction mein text select karna (character by character ya line by line).
+    • Ctrl + Shift + Left/Right Arrow : Cursor ke aage ya peeche ke poore ek word ko select karna.
+    • Home : Cursor ko current line ke start mein le jana.
+    • End : Cursor ko current line ke end mein le jana.
+    • Shift + Home : Cursor ki current position se line ke start tak text select karna.
+    • Shift + End : Cursor ki current position se line ke end tak text select karna.
+    • Ctrl + Home : Cursor ko pure document ya text field ke bilkul start mein le jana.
+    • Ctrl + End : Cursor ko pure document ya text field ke bilkul end mein le jana.
+    • Ctrl + Shift + Home : Cursor ki current position se document ke start tak saara text select karna.
+    • Ctrl + Shift + End : Cursor ki current position se document ke end tak saara text select karna.
+    • Ctrl + Backspace : Cursor ke peeche wala poora ek word delete karna.
+    • Ctrl + Delete : Cursor ke aage wala poora ek word delete karna.
+    • Insert : Typing mode ko 'Insert' aur 'Overtype' ke beech mein badalna. (Overtype mode mein naya likha hua text purane text ko mita deta hai)
+9. Dialog Boxes (Window) ke Andar Navigation Shortcuts
+Jab koi dialog box open ho (jaise Ctrl+D se Font box, ya Ctrl+P se Print box), tab yeh keys kaam aati hain:
+    • Tab : Dialog box ke different options (buttons, text fields, lists) ke beech mein aage ki taraf move karna.
+    • Shift + Tab : Options ke beech mein peeche ki taraf move karna.
+    • Spacebar : Kisi selected checkbox ko tick ya untick karna. Ya kisi selected button ko press karna.
+    • Alt + Underlined letter : Jis option ke naam mein koi letter underline ho, Alt ke saath wo letter dabane se wo option select ho jata hai. (Jaise Font box mein "Font" ke 'n' par underline hai to Alt+N dabane se font list select ho sakti hai).
+    • Arrow Keys : Radio buttons ke group mein selection badalna, ya dropdown list mein items ke beech move karna.
+    • Enter : Dialog box ki default setting (usually 'OK' ya 'Apply') ko accept karna.
+    • Esc : Dialog box ko bina koi change kiye band karna (Cancel).
+10. MS PowerPoint Shortcuts (Presentations ke liye)
+    • F5 : Presentation ko shuru se (first slide se) start karna (Slide Show).
+    • Shift + F5 : Presentation ko current slide se start karna.
+    • N ya Page Down ya Enter ya Spacebar : Slide show ke dauran agli slide par jana.
+    • P ya Page Up ya Backspace : Slide show ke dauran pichli slide par jana.
+    • B ya . (Period) : Slide show ke dauran screen ko black (kaali) kar dena. Dobara dabane se wapas aana.
+    • W ya , (Comma) : Slide show ke dauran screen ko white (safed) kar dena.
+    • S : Slide show ko rok dena (Pause). Dobara dabane se restart.
+    • Esc : Slide show ko khatam karna.
+    • Ctrl + M : Naya slide insert karna.
+    • Ctrl + D : Selected slide ki turant copy bana kar insert karna.
+    • Ctrl + G : Multiple selected objects ko group karna.
+    • Ctrl + Shift + G : Group kiye gaye objects ko ungroup karna.
+11. MS Outlook Shortcuts (Email ke liye)
+    • Ctrl + N : Naya email message (mail) likhna.
+    • Ctrl + R : Selected email ka reply (jawaab) dena.
+    • Ctrl + Shift + R : Sabko reply (Reply All) karna.
+    • Ctrl + F : Selected email ko forward (aage bhejna) karna.
+    • Alt + S : Likha hua email turant bhejna (Send).
+    • Ctrl + Enter : Bhi email bhejne ke liye use hota hai.
+    • F9 : Saare email accounts se naye emails check karna (Send/Receive).
+    • Ctrl + 1 : Mail section mein jana.
+    • Ctrl + 2 : Calendar mein jana.
+    • Ctrl + 3 : Contacts mein jana.
+    • Ctrl + Shift + A : Naya appointment (calendar event) banana.
+    • Ctrl + Shift + C : Naya contact banana.
+12. Web Browsers (Chrome, Edge, Firefox) ke Kuch Aur Shortcuts
+    • Ctrl + Shift + N (Chrome/Edge) / Ctrl + Shift + P (Firefox) : Incognito / Private browsing mode mein naya window khulna.
+    • Ctrl + Shift + O : Bookmarks manager khulna.
+    • Ctrl + U : Current webpage ka source code dekhna (View page source).
+    • Ctrl + Shift + I : Developer Tools khulna (web developers ke liye).
+    • Ctrl + Shift + J : Browser console khulna (debugging ke liye).
+    • Ctrl + Shift + Del : Browser ka clear browsing data (history, cache etc.) wala dialog box khulna.
+    • Alt + Home : Apne browser ka home page open karna.
+    • Shift + Esc : Chrome ka internal task manager khulna (bataega ke har tab kitni memory use kar raha hai).
+13. Media Players (VLC, Windows Media Player) Shortcuts
+    • Spacebar : Play / Pause karna.
+    • Ctrl + Up/Down Arrow : Volume badhana ya ghatana.
+    • F : Full-screen mode on/off karna.
+    • T : Video ke upar time duration dikhana/chhupana.
+    • N : Agli playlist item (song/video) par jana (Next).
+    • P : Pichli playlist item par jana (Previous).
+    • Ctrl + Left/Right Arrow : Video mein tezi se aage ya peeche jana (Seek forward/backward).
+    • Alt + Left/Right Arrow : Bahut tezi se aage ya peeche jana (Very short seek).
+    • M : Mute on/off karna.
+14. Kuch Aur Windows Productivity Shortcuts
+    • Windows key + V : Clipboard history khulna. (Isse aap apne copy kiye gaye multiple items (text ya images) ki history dekh kar kisi ko bhi paste kar sakte ho. Pehle is feature ko Settings > System > Clipboard mein ON karna hoga.)
+    • Windows key + . (Dot) ya ; (Semicolon) : Emoji panel khulna (jahan se aap emoji, GIFs, aur symbols select kar sakte ho).
+    • Windows key + K : Connect settings (Miracast) khulna, doosre displays ya audio devices se connect karne ke liye.
+    • Windows key + H : Dictation (voice typing) shuru karna. (Agar aap microphone se bol kar text likhna chahte ho)
+    • Windows key + P : Project karne ke options (Duplicate, Extend, Second screen only) ka menu khulna.
+    • Windows key + G : Game Bar khulna (screen recording aur performance monitoring ke liye).
+    • Windows key + I : Windows Settings khulna (pehle bhi likha tha, lekin bahut kaam aata hai).
+    • Windows key + A : Action Center (notifications aur quick settings) khulna.
+    • Windows key + Ctrl + D : Ek naya virtual desktop banana.
+    • Windows key + Ctrl + Left/Right Arrow : Virtual desktops ke beech switch karna.
+    • Windows key + Ctrl + F4 : Current virtual desktop ko band karna.
+15. Screenshot ke Aur Options (Snipping Tool ke Saath)
+    • Windows key + Shift + S : (Pehle bhi likha) - Isse Snipping Tool ka small bar aata hai. Ismein aap:
+        ◦ Rectangular Snip : Rectangle shape mein screenshot le sakte ho.
+        ◦ Freeform Snip : Kisi bhi shape (jaise circle) mein screenshot.
+        ◦ Window Snip : Kisi specific open window ka screenshot.
+        ◦ Fullscreen Snip : Poori screen ka screenshot.
+        ◦ Screenshot lene ke baad wo clipboard mein save ho jata hai aur ek notification aata hai jisse dabakar aap usmein edit (draw, crop) bhi kar sakte ho.
